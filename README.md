@@ -2,7 +2,8 @@
 
 Links to different submissions to the Build on Skynet (Sponsor - SIA)
 
-## Submission # 1:
+
+## Submission # 1:
 A Python application that automatically uploads XKCD comic images to Skynet.
 
 https://github.com/ivanmolto/skynet-xkcd-uploader
