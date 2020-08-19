@@ -22,7 +22,7 @@ https://github.com/ivanmolto/tweeskynet
 
 
 ## Submission # 4:
-A ZIM game that uses colors inspired from the A-Ha video "Take on Me" (and also inspired by a CodePen Challenge).
+A ZIM game that uses colors inspired from the A-Ha video "Take on Me" (and also inspired by a CodePen Challenge)
 
 https://github.com/ivanmolto/a-ha-game
 
